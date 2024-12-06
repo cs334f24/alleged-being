@@ -1,1 +1,4 @@
 red
+pink
+white
+black
